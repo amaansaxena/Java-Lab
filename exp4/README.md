@@ -1,5 +1,3 @@
-This README provides a clear overview of the Vector Operations experiment, detailing the class structure, exception handling, and usage instructions.
-
 ---
 
 # Vector Operations in Java
