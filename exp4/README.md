@@ -80,4 +80,3 @@ java VectorOperations
 
 ---
 
-Would you like me to add a "License" or "Contributing" section to this README?
