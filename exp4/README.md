@@ -1,10 +1,8 @@
----
-
 # Vector Operations in Java
 
 ## Overview
 
-This project implements a custom `Vector` class in Java that supports 2D and 3D vector mathematics. It includes robust error handling using a custom exception class to ensure that operations are only performed on vectors with compatible dimensions.
+This assignment implements a custom `Vector` class in Java that supports 2D and 3D vector mathematics. It includes robust error handling using a custom exception class to ensure that operations are only performed on vectors with compatible dimensions.
 
 ## Features
 
